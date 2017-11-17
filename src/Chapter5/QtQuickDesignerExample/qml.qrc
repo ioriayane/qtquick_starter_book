@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Parts/ColorIndicator.qml</file>
+        <file>Parts/ColorIndicatorForm.ui.qml</file>
+        <file>cat.png</file>
+        <file>Contents.qml</file>
+        <file>ContentsForm.ui.qml</file>
+    </qresource>
+</RCC>

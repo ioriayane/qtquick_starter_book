@@ -1,1 +1,1 @@
-# masterqtquick_s
+# qtquick_starter_book
